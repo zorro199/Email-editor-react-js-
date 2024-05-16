@@ -1,5 +1,8 @@
 # React + Vite
 
+Это мой первый пет проект на react js. Простенький емаил редактор в котором можно отредактировать текст и увидеть результат мгновенно справа от редактора.
+Отредактрованные письма храняться на простеньком локальном npm server, (db.json). Так же есть возможность удалять item-ы.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
